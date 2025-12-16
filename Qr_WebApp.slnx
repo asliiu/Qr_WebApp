@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Bussines/Data.csproj" Id="0ee792e2-ecf4-42d6-84e0-99cf9b8e3ff8" />
+  <Project Path="Data/Entity.csproj" Id="612b650f-e43e-4b16-bf02-67eb75846da9" />
+  <Project Path="Qr_WebApp/Qr_WebApp.csproj" />
+</Solution>
